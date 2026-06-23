@@ -83,6 +83,8 @@ Current immediate output:
 - `outputs/demucs_stems_6s_full/synth_candidate_audio_auditionable.html`
 - `outputs/demucs_stems_6s_full/synth_candidate_audio_failure_audit.html`
 - `outputs/demucs_stems_6s_full/synth_candidate_audio_reliable.html`
+- `outputs/demucs_stems_6s_full/synth_candidate_audio_final.html`
+- `outputs/demucs_stems_6s_full/current_best_status.html`
 
 ### P3: Improve Model Evidence
 

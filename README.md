@@ -223,11 +223,17 @@ Main generated reports:
 - `outputs/demucs_stems_6s_full/synth_candidate_audio_auditionable.html`
 - `outputs/demucs_stems_6s_full/synth_candidate_audio_failure_audit.html`
 - `outputs/demucs_stems_6s_full/synth_candidate_audio_reliable.html`
+- `outputs/demucs_stems_6s_full/synth_candidate_audio_final.html`
+- `outputs/demucs_stems_6s_full/current_best_status.html`
 
 The synth candidate audio exports are pseudo-separation outputs. They are made
 by combining Demucs stems over model-selected time regions. They are useful for
 auditioning whether the model is pulling the right synth-like family, but they
 are not ground-truth isolated synthesizer stems.
+
+Start with `synth_candidate_audio_final.html` for listening, then use
+`current_best_status.html` to see how many candidates were rejected or retained
+and which synth labels dominate the current build.
 
 ## Repository / GitHub Notes
 
