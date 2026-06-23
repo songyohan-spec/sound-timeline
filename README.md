@@ -206,6 +206,12 @@ Run the current best pipeline after Demucs stems have been generated:
 python scripts\run_current_best_synth_pipeline.py
 ```
 
+Check the project skeleton:
+
+```powershell
+python scripts\smoke_check_project.py
+```
+
 Main generated reports:
 
 - `outputs/demucs_stems_6s_full/index.html`
@@ -243,3 +249,9 @@ git status
 git add .gitignore README.md environment.yml scripts configs docs src
 git commit -m "Add stem-aware synth profiling pipeline"
 ```
+
+See also:
+
+- `docs/next_build_plan.md`
+- `docs/local_artifacts.md`
+- `docs/github_upload_checklist.md`
