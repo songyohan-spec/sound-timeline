@@ -1,0 +1,202 @@
+{
+  "purpose": "Training target priorities derived from the current external reference clips. These are not ground-truth labels for the songs; they define what the profiler should learn to hear first.",
+  "reference_set": [
+    {
+      "artist": "Magdalena Bay",
+      "track": "Watching T.V.",
+      "scene": "retrofuturist synth-pop / psychedelic alt-pop",
+      "priority_targets": [
+        "soft_processed_lead_vocal",
+        "stacked_harmony_vocal",
+        "lush_synth_pad",
+        "fuzzy_diy_synth_texture",
+        "octave_lift_pop_chorus",
+        "filtered_sample_or_synth_loop",
+        "wide_reverb_wash"
+      ]
+    },
+    {
+      "artist": "yeule",
+      "track": "sulky baby",
+      "scene": "shoegaze / alt-rock / glitch-pop residue",
+      "priority_targets": [
+        "dreamy_breathy_vocal",
+        "washed_chorus_guitar",
+        "feedback_haze",
+        "reverb_smeared_guitar_bed",
+        "soft_distorted_texture",
+        "acoustic_electric_hybrid_loop"
+      ]
+    },
+    {
+      "artist": "yeule",
+      "track": "cyber meat",
+      "scene": "cyberrock / grungy industrial emo-pop",
+      "priority_targets": [
+        "aggressive_processed_vocal",
+        "distorted_guitar_texture",
+        "industrial_noise_layer",
+        "glitch_percussion",
+        "bitcrushed_synth_or_sample",
+        "dense_alt_rock_drum_energy"
+      ]
+    },
+    {
+      "artist": "shinjihang",
+      "track": "SLOW",
+      "scene": "experimental hip-hop / neo-psychedelia / alternative R&B with live-instrument texture",
+      "priority_targets": [
+        "live_drum_layer",
+        "electric_guitar_layer",
+        "bass_guitar_or_synth_bass",
+        "keyboards",
+        "synthesizer_pad",
+        "chorus_vocal",
+        "strings_texture",
+        "recorder_or_flute_like_tone",
+        "analog_warm_room_texture"
+      ]
+    },
+    {
+      "artist": "slayr",
+      "track": "Love Blur",
+      "scene": "rage / digicore / electronic trap",
+      "priority_targets": [
+        "melodic_autotuned_rap_vocal",
+        "syrupy_video_game_synth_melody",
+        "rage_synth_lead",
+        "distorted_808_bass",
+        "trap_hi_hat_rolls",
+        "electronic_clap_snare",
+        "maximalist_digital_texture"
+      ]
+    },
+    {
+      "artist": "C JAMM",
+      "track": "Pokerface",
+      "scene": "K-rap / moody melodic hip-hop",
+      "priority_targets": [
+        "rap_vocal",
+        "melodic_rap_vocal",
+        "dark_sample_or_synth_loop",
+        "trap_drum_pattern",
+        "808_or_sub_bass",
+        "minimal_moody_arrangement"
+      ]
+    },
+    {
+      "artist": "C JAMM",
+      "track": "Cocaine Love",
+      "scene": "K-rap / melodic hip-hop",
+      "priority_targets": [
+        "rap_vocal",
+        "featured_vocal_layer",
+        "melodic_hook_vocal",
+        "trap_drum_pattern",
+        "808_or_sub_bass",
+        "dark_romantic_synth_or_sample"
+      ]
+    },
+    {
+      "artist": "Oklou",
+      "track": "thank you for recording",
+      "scene": "experimental pop / electropop / ambient-club minimalism",
+      "priority_targets": [
+        "autotuned_soft_vocal",
+        "synth_flute_or_recorder_like_lead",
+        "sine_whistle_tone",
+        "oscillator_feedback_percussion",
+        "kickless_club_pulse",
+        "ambient_electronic_soundscape",
+        "delicate_vocal_arrangement"
+      ]
+    },
+    {
+      "artist": "Lucy Bedroque",
+      "track": "Pretty Peach",
+      "scene": "digicore / experimental hip-hop / rage-adjacent pop-rap",
+      "priority_targets": [
+        "pitched_or_pretty_vocal_hook",
+        "clicky_drum_like_sounds",
+        "glitching_bell_texture",
+        "dance_edm_synth_section",
+        "glitch_vinyl_noise",
+        "drill_like_energy",
+        "softly_mixed_distorted_rap_vocal"
+      ]
+    },
+    {
+      "artist": "Yoon Dahae",
+      "track": "Cabriolet",
+      "scene": "Korean indie / vocal-led pop, limited public production data",
+      "priority_targets": [
+        "lead_vocal",
+        "soft_backing_vocal",
+        "keyboard_or_synth_loop",
+        "guitar_or_sample_loop",
+        "light_drum_programming",
+        "warm_indie_texture"
+      ]
+    },
+    {
+      "artist": "ilypvc & co7ty",
+      "track": "spirit",
+      "scene": "hyperpop / indietronica / electronica with dense dreamy production",
+      "priority_targets": [
+        "processed_vocal",
+        "vocal_synth_hybrid",
+        "lush_dreamy_synth_stack",
+        "watery_background_texture",
+        "pico_pico_game_like_synth",
+        "dense_electronic_arrangement",
+        "soft_high_energy_digital_texture"
+      ]
+    }
+  ],
+  "training_priority_groups": {
+    "highest": [
+      "processed_vocal",
+      "pitched_vocal_chop",
+      "hard_tuned_vocal",
+      "breathy_vocal_pad",
+      "vocoder_vocal_texture",
+      "vocal_synth_hybrid",
+      "filtered_sample_loop",
+      "chopped_sample_loop",
+      "resampled_pop_texture",
+      "granular_texture",
+      "digital_glitch",
+      "glitch_percussion",
+      "bitcrushed_synth_lead",
+      "noisy_wavetable_texture",
+      "syrupy_video_game_synth_melody",
+      "lush_synth_pad",
+      "wide_reverb_wash",
+      "sidechain_pumping",
+      "distorted_808_bass",
+      "trap_hi_hat_rolls"
+    ],
+    "medium": [
+      "washed_chorus_guitar",
+      "distorted_guitar_texture",
+      "feedback_haze",
+      "string_pad",
+      "recorder_or_flute_like_tone",
+      "synth_flute_or_recorder_like_lead",
+      "oscillator_feedback_percussion",
+      "clicky_drum_like_sounds",
+      "glitching_bell_texture",
+      "808_or_sub_bass",
+      "trap_drum_pattern",
+      "electronic_clap_snare"
+    ],
+    "lower_for_now": [
+      "clean_vocal",
+      "acoustic_kick",
+      "acoustic_guitar",
+      "piano_only",
+      "traditional_orchestral_strings"
+    ]
+  },
+  "modeling_note": "The current reference set is not a balanced instrument dataset. It is biased toward processed vocals, hybrid sampled loops, digital textures, synth stacks, trap/rage drums, and wide/washed production. Treat that bias as intentional for the first product-like model."
+}

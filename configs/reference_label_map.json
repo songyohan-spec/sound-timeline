@@ -1,0 +1,205 @@
+{
+  "canonical_groups": {
+    "vocals": {
+      "processed_lead_vocal": [
+        "soft_processed_lead_vocal",
+        "aggressive_processed_vocal",
+        "processed_vocal",
+        "lead_vocal",
+        "rap_vocal",
+        "melodic_rap_vocal",
+        "softly_mixed_distorted_rap_vocal"
+      ],
+      "hard_tuned_vocal": [
+        "melodic_autotuned_rap_vocal",
+        "autotuned_soft_vocal"
+      ],
+      "pitched_vocal_chop": [
+        "pitched_or_pretty_vocal_hook"
+      ],
+      "breathy_vocal_pad": [
+        "dreamy_breathy_vocal",
+        "delicate_vocal_arrangement",
+        "soft_backing_vocal"
+      ],
+      "stacked_harmony_vocal": [
+        "stacked_harmony_vocal",
+        "octave_lift_pop_chorus",
+        "chorus_vocal",
+        "featured_vocal_layer",
+        "melodic_hook_vocal"
+      ],
+      "vocal_synth_hybrid": [
+        "vocal_synth_hybrid"
+      ],
+      "vocoder_vocal_texture": [
+        "formant_shifted_vocal",
+        "vocoder_vocal_texture"
+      ]
+    },
+    "synth": {
+      "lush_synth_pad": [
+        "lush_synth_pad",
+        "synthesizer_pad",
+        "keyboards",
+        "dense_electronic_arrangement",
+        "ambient_electronic_soundscape",
+        "lush_dreamy_synth_stack"
+      ],
+      "fuzzy_diy_synth_texture": [
+        "fuzzy_diy_synth_texture",
+        "soft_distorted_texture"
+      ],
+      "syrupy_video_game_synth_melody": [
+        "syrupy_video_game_synth_melody",
+        "pico_pico_game_like_synth",
+        "dance_edm_synth_section"
+      ],
+      "rage_synth_lead": [
+        "rage_synth_lead"
+      ],
+      "bitcrushed_synth_lead": [
+        "bitcrushed_synth_lead",
+        "bitcrushed_synth_or_sample"
+      ],
+      "glitching_bell_texture": [
+        "glitching_bell_texture",
+        "glassy_fm_bell"
+      ],
+      "synth_flute_or_recorder_like_lead": [
+        "synth_flute_or_recorder_like_lead",
+        "sine_whistle_tone",
+        "recorder_or_flute_like_tone"
+      ],
+      "noisy_wavetable_texture": [
+        "noisy_wavetable_texture",
+        "maximalist_digital_texture",
+        "soft_high_energy_digital_texture"
+      ],
+      "granular_synth_texture": [
+        "granular_synth_texture"
+      ]
+    },
+    "bass": {
+      "sub_bass": [
+        "808_or_sub_bass",
+        "sub_bass"
+      ],
+      "distorted_808_bass": [
+        "distorted_808_bass",
+        "distorted_bass",
+        "808_bass"
+      ],
+      "pulsing_sidechain_bass": [
+        "pulsing_sidechain_bass",
+        "bass_guitar_or_synth_bass"
+      ]
+    },
+    "drums": {
+      "trap_hi_hat_rolls": [
+        "trap_hi_hat_rolls",
+        "hi_hat_tick"
+      ],
+      "electronic_clap_snare": [
+        "electronic_clap_snare",
+        "snare_clap"
+      ],
+      "trap_drum_pattern": [
+        "trap_drum_pattern",
+        "light_drum_programming",
+        "drill_like_energy"
+      ],
+      "glitch_percussion": [
+        "glitch_percussion",
+        "clicky_drum_like_sounds",
+        "oscillator_feedback_percussion"
+      ],
+      "live_drum_layer": [
+        "live_drum_layer",
+        "dense_alt_rock_drum_energy"
+      ]
+    },
+    "guitar_strings": {
+      "washed_chorus_guitar": [
+        "washed_chorus_guitar",
+        "reverb_smeared_guitar_bed"
+      ],
+      "distorted_guitar_texture": [
+        "distorted_guitar_texture",
+        "electric_guitar_layer"
+      ],
+      "feedback_haze": [
+        "feedback_haze"
+      ],
+      "filtered_guitar_loop": [
+        "filtered_guitar_loop",
+        "acoustic_electric_hybrid_loop",
+        "guitar_or_sample_loop"
+      ],
+      "string_pad": [
+        "strings_texture",
+        "string_pad"
+      ]
+    },
+    "noise_fx": {
+      "digital_glitch": [
+        "digital_glitch",
+        "glitch_vinyl_noise"
+      ],
+      "granular_texture": [
+        "granular_texture"
+      ],
+      "industrial_noise_layer": [
+        "industrial_noise_layer"
+      ],
+      "watery_background_texture": [
+        "watery_background_texture"
+      ],
+      "vinyl_noise": [
+        "vinyl_noise"
+      ]
+    },
+    "sampled_loop": {
+      "filtered_sample_loop": [
+        "filtered_sample_loop",
+        "filtered_sample_or_synth_loop",
+        "dark_sample_or_synth_loop",
+        "dark_romantic_synth_or_sample"
+      ],
+      "chopped_sample_loop": [
+        "chopped_sample_loop"
+      ],
+      "resampled_pop_texture": [
+        "resampled_pop_texture"
+      ],
+      "unknown_hybrid_loop": [
+        "keyboard_or_synth_loop",
+        "minimal_moody_arrangement",
+        "warm_indie_texture",
+        "analog_warm_room_texture"
+      ]
+    },
+    "treatments": {
+      "wide_reverb_wash": [
+        "wide_reverb_wash",
+        "long_reverb_wash"
+      ],
+      "sidechain_pumping": [
+        "sidechain_pumping",
+        "kickless_club_pulse"
+      ],
+      "bitcrushed": [
+        "bitcrushed"
+      ],
+      "distorted": [
+        "distorted"
+      ],
+      "filtered_dark": [
+        "filtered_dark"
+      ],
+      "gated_chopped": [
+        "gated_chopped"
+      ]
+    }
+  }
+}

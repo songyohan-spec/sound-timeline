@@ -1,0 +1,42 @@
+source_family:
+  - synth
+  - bass
+  - guitar_like
+  - vocal_like
+  - processed_vocal
+  - vocal_chop
+  - washed_guitar
+  - texture_noise
+  - ambient_pad
+  - ambient_texture
+  - noise_fx
+
+reverb:
+  - dry
+  - short_room
+  - long_hall
+  - washed_out
+
+distortion:
+  - none
+  - mild_saturation
+  - heavy_distortion
+  - crushed
+
+filter:
+  - none
+  - lowpass_static
+  - highpass_static
+  - lowpass_opening
+  - highpass_rise
+
+stereo:
+  - mono
+  - medium
+  - wide
+
+motion:
+  - static
+  - filter_opening
+  - filter_rise
+  - sidechain_pumping

@@ -1,0 +1,88 @@
+{
+  "source_families": {
+    "vocals": [
+      "clean_vocal",
+      "hard_tuned_vocal",
+      "pitched_vocal_chop",
+      "formant_shifted_vocal",
+      "breathy_vocal_pad",
+      "vocoder_vocal_texture",
+      "stacked_harmony_vocal"
+    ],
+    "synth": [
+      "airy_synth_pad",
+      "supersaw_pad",
+      "brass_like_synth",
+      "glassy_fm_bell",
+      "filtered_synth_pluck",
+      "bitcrushed_synth_lead",
+      "noisy_wavetable_texture",
+      "granular_synth_texture"
+    ],
+    "bass": [
+      "sub_bass",
+      "808_bass",
+      "distorted_bass",
+      "reese_bass",
+      "pulsing_sidechain_bass",
+      "synth_bass_pluck"
+    ],
+    "drums": [
+      "electronic_kick",
+      "acoustic_kick",
+      "snare_clap",
+      "rim_or_snap",
+      "hi_hat_tick",
+      "breakbeat_loop",
+      "glitch_percussion",
+      "tom_or_percussive_fill"
+    ],
+    "guitar_strings": [
+      "filtered_guitar_loop",
+      "washed_chorus_guitar",
+      "distorted_guitar_texture",
+      "reverse_guitar_swell",
+      "string_pad",
+      "violin_like_lead",
+      "pizzicato_string_like"
+    ],
+    "noise_fx": [
+      "vinyl_noise",
+      "tape_hiss",
+      "riser_noise",
+      "impact_tail",
+      "digital_glitch",
+      "granular_texture",
+      "reverse_swell",
+      "ambient_foley_texture"
+    ],
+    "sampled_loop": [
+      "filtered_sample_loop",
+      "resampled_pop_texture",
+      "chopped_sample_loop",
+      "vocal_synth_hybrid",
+      "unknown_hybrid_loop"
+    ]
+  },
+  "treatments": [
+    "dry_close",
+    "long_reverb_wash",
+    "short_room",
+    "delay_throw_tail",
+    "chorus_widened",
+    "bitcrushed",
+    "saturated",
+    "distorted",
+    "filtered_dark",
+    "filter_opening",
+    "gated_chopped",
+    "sidechain_pumping",
+    "tremolo_or_pulsing",
+    "reversed",
+    "pitch_warped"
+  ],
+  "status_thresholds": {
+    "detected": 0.82,
+    "possible": 0.66
+  }
+}

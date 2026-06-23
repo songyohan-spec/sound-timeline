@@ -1,0 +1,83 @@
+{
+  "source": {
+    "processed_vocal": [
+      "a processed vocal texture",
+      "a chopped or effected vocal sound",
+      "a vocal-like electronic texture"
+    ],
+    "vocal_chop": [
+      "a chopped vocal sample",
+      "a stuttered vocal chop",
+      "a rhythmic vocal slice"
+    ],
+    "washed_guitar": [
+      "a washed out electric guitar texture",
+      "a reverberant guitar pad",
+      "a dreamy chorus guitar sound"
+    ],
+    "ambient_pad": [
+      "a wide ambient synth pad",
+      "a soft atmospheric pad",
+      "a spacious electronic background texture"
+    ],
+    "texture_noise": [
+      "a noisy electronic texture",
+      "a grainy sound texture",
+      "a synthetic noise layer"
+    ],
+    "synth": [
+      "a synth sound",
+      "an electronic synthesizer tone",
+      "a synthetic melodic sound"
+    ],
+    "bass": [
+      "a bass sound",
+      "a low synth bass",
+      "a deep bass tone"
+    ],
+    "guitar_like": [
+      "a guitar-like sound",
+      "a plucked string texture",
+      "an electric guitar tone"
+    ]
+  },
+  "space": {
+    "dry": [
+      "a dry close sound",
+      "a sound with little reverb"
+    ],
+    "long_hall": [
+      "a sound with long hall reverb",
+      "a spacious reverberant sound"
+    ],
+    "washed_out": [
+      "a washed out ambient sound",
+      "a sound drenched in reverb",
+      "a distant dreamy reverberant texture"
+    ]
+  },
+  "texture": {
+    "clean": [
+      "a clean smooth sound"
+    ],
+    "distorted": [
+      "a distorted sound",
+      "a saturated gritty sound"
+    ],
+    "crushed": [
+      "a crushed bitcrushed sound",
+      "a grainy degraded digital sound"
+    ]
+  },
+  "motion": {
+    "static": [
+      "a steady static sound"
+    ],
+    "moving": [
+      "a moving evolving sound",
+      "a sound with pulsing motion",
+      "a sound with pumping movement"
+    ]
+  }
+}
+

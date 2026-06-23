@@ -1,0 +1,49 @@
+sources:
+  - synth
+  - bass
+  - guitar_like
+  - vocal_like
+  - noise_fx
+
+roles:
+  - main_melody
+  - background_texture
+  - bass_foundation
+  - transition_fx
+  - rhythmic_layer
+
+articulations:
+  - sustained
+  - plucked
+  - chopped
+  - swelling
+  - pulsing
+
+effects:
+  - reverb
+  - delay
+  - distortion
+  - lowpass_filter
+  - highpass_filter
+  - bitcrush
+  - chorus
+  - lowpass_sweep_opening
+  - highpass_rise
+  - sidechain_pumping
+
+spatial_texture:
+  - dry_close
+  - wide
+  - washed_out
+  - grainy
+  - pumped
+
+prominence:
+  - low
+  - medium
+  - high
+
+melody:
+  - melody_active
+  - motif_repeated
+  - non_melodic

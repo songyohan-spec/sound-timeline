@@ -1,0 +1,243 @@
+{
+  "vocal_derived": {
+    "formant_shifted_vocal_chop": [
+      "a formant shifted vocal chop",
+      "a vocal chop with altered formant character",
+      "a pitched and formant shifted vocal slice"
+    ],
+    "pitched_vocal_chop": [
+      "a pitched vocal chop",
+      "a melodic chopped vocal sample",
+      "a vocal chop used as a melody"
+    ],
+    "breathy_vocal_pad": [
+      "a breathy vocal pad",
+      "an airy vocal texture",
+      "a soft vocal pad in the background"
+    ],
+    "granular_vocal_smear": [
+      "a granular vocal texture",
+      "a smeared vocal sample texture",
+      "a blurred chopped vocal ambience"
+    ],
+    "hard_tuned_vocal_lead": [
+      "a hard tuned vocal lead",
+      "an autotuned vocal lead",
+      "a robotic tuned vocal melody"
+    ],
+    "reverse_vocal_swell": [
+      "a reverse vocal swell",
+      "a reversed vocal transition",
+      "a swelling reversed vocal effect"
+    ],
+    "layered_harmony_stack": [
+      "a layered vocal harmony stack",
+      "stacked pop vocal harmonies",
+      "multiple airy vocal layers"
+    ],
+    "vocoder_vocal_texture": [
+      "a vocoder vocal texture",
+      "a robotic harmonized vocal sound",
+      "a synthetic vocoded voice layer"
+    ]
+  },
+  "synth_derived": {
+    "airy_synth_pad": [
+      "an airy synth pad",
+      "a soft bright atmospheric synth pad",
+      "a wide airy electronic pad"
+    ],
+    "supersaw_wide_pad": [
+      "a wide supersaw synth pad",
+      "a detuned saw wave pad",
+      "a lush wide saw synthesizer pad"
+    ],
+    "filtered_synth_pluck": [
+      "a filtered synth pluck",
+      "a plucky lowpass filtered synth",
+      "a short electronic pluck with filter"
+    ],
+    "glassy_fm_bell": [
+      "a glassy FM bell sound",
+      "a metallic digital bell synth",
+      "a bright bell like synthesizer"
+    ],
+    "bitcrushed_synth_lead": [
+      "a bitcrushed synth lead",
+      "a distorted digital synth lead",
+      "a crushed electronic lead sound"
+    ],
+    "noisy_wavetable_texture": [
+      "a noisy wavetable texture",
+      "a grainy digital synth texture",
+      "a synthetic noisy evolving texture"
+    ],
+    "analog_bass_pulse": [
+      "an analog synth bass pulse",
+      "a pulsing warm synthesizer bass",
+      "a rounded electronic bass sequence"
+    ],
+    "arpeggiated_synth_sequence": [
+      "an arpeggiated synth sequence",
+      "a repeating electronic synth arpeggio",
+      "a melodic synth pattern"
+    ],
+    "resonant_filter_sweep": [
+      "a resonant filter sweep",
+      "a synthesizer filter opening",
+      "a bright resonant synth sweep"
+    ]
+  },
+  "guitar_derived": {
+    "chorus_guitar_wash": [
+      "a chorus guitar wash",
+      "a wide dreamy chorus guitar texture",
+      "a washed out chorus electric guitar"
+    ],
+    "filtered_guitar_loop": [
+      "a filtered guitar loop",
+      "a lowpass filtered electric guitar loop",
+      "a muted filtered guitar pattern"
+    ],
+    "distorted_guitar_texture": [
+      "a distorted guitar texture",
+      "a gritty electric guitar layer",
+      "a saturated guitar noise texture"
+    ],
+    "reverse_guitar_swell": [
+      "a reverse guitar swell",
+      "a swelling reversed guitar effect",
+      "a guitar swell transition"
+    ],
+    "chorus_arpeggio_loop": [
+      "a chorus electric guitar arpeggio",
+      "a dreamy guitar arpeggio loop",
+      "a clean chorus guitar picking pattern"
+    ],
+    "pitch_warped_guitar": [
+      "a pitch warped guitar texture",
+      "a detuned wobbly electric guitar",
+      "a warped processed guitar loop"
+    ]
+  },
+  "hybrid_sampled": {
+    "processed_melodic_loop": [
+      "a processed melodic loop",
+      "a resampled melodic phrase",
+      "a chopped processed melodic sample"
+    ],
+    "vocal_synth_hybrid": [
+      "a vocal synth hybrid texture",
+      "a sound between a vocal chop and a synth",
+      "a synthetic vocal-like melodic layer"
+    ],
+    "resampled_pop_texture": [
+      "a resampled pop production texture",
+      "a processed sample texture in an alternative pop song",
+      "a heavily processed musical sample layer"
+    ],
+    "warped_pluck_loop": [
+      "a warped plucked loop",
+      "a pitch warped plucky melodic loop",
+      "a short warped sample pluck pattern"
+    ],
+    "chopped_melodic_texture": [
+      "a chopped melodic texture",
+      "a rhythmically sliced melodic sample",
+      "a stuttered melodic loop"
+    ],
+    "filtered_sample_loop": [
+      "a filtered sample loop",
+      "a muted filtered sampled loop",
+      "a lowpass filtered resampled phrase"
+    ]
+  },
+  "fx_texture": {
+    "tape_noise_bed": [
+      "a tape noise bed",
+      "a warm analog noise texture",
+      "a background tape hiss layer"
+    ],
+    "vinyl_noise_texture": [
+      "a vinyl noise texture",
+      "a crackly vinyl ambience",
+      "a dusty record noise layer"
+    ],
+    "riser_noise_sweep": [
+      "a rising noise sweep",
+      "a white noise riser",
+      "a filtered noise sweep transition"
+    ],
+    "impact_tail": [
+      "an impact with a long tail",
+      "a hit sound with reverb tail",
+      "a cinematic impact tail"
+    ],
+    "glitch_grain_texture": [
+      "a glitchy grain texture",
+      "a chopped granular glitch sound",
+      "a digital granular noise texture"
+    ],
+    "digital_glitch_fill": [
+      "a digital glitch fill",
+      "a short chopped glitch transition",
+      "a fragmented electronic fill"
+    ],
+    "reverse_cymbal_swell": [
+      "a reverse cymbal swell",
+      "a swelling cymbal transition",
+      "a reversed noisy cymbal rise"
+    ]
+  },
+  "processing_space": {
+    "dry_close": [
+      "a dry close sound",
+      "an intimate dry sound with little reverb"
+    ],
+    "wide_chorus_widening": [
+      "a wide chorus widened sound",
+      "a stereo widened chorus texture",
+      "a sound widened with chorus"
+    ],
+    "long_reverb_wash": [
+      "a long reverb wash",
+      "a sound drenched in long reverb",
+      "a washed out reverberant space"
+    ],
+    "delay_throw_tail": [
+      "a delay throw tail",
+      "an echo tail after a phrase",
+      "a delayed repeat tail"
+    ],
+    "sidechain_pumping": [
+      "a sidechain pumping sound ducked by a kick drum",
+      "a strong volume ducking effect from sidechain compression",
+      "a synth or pad being ducked by the beat"
+    ],
+    "rhythmic_pulse_motion": [
+      "a rhythmic pulsing movement",
+      "a repeating volume pulse",
+      "a sound moving rhythmically with the groove"
+    ],
+    "gated_stutter_motion": [
+      "a gated stutter motion",
+      "a rhythmic gate chopping the sound",
+      "a stuttered volume gate effect"
+    ],
+    "chopped_retriggered_envelope": [
+      "a chopped retriggered envelope",
+      "a stuttered rhythmic gated sound",
+      "a rhythmically chopped sound"
+    ],
+    "tape_wow_flutter": [
+      "a tape wow and flutter effect",
+      "a warbly analog tape pitch movement",
+      "a wobbly cassette texture"
+    ],
+    "phaser_flanger_motion": [
+      "a phaser flanger movement",
+      "a sweeping phase modulation effect",
+      "a whooshing modulated filter motion"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+# Python / local runtime
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local scratch
+.tmp/
+*.log
+
+# Generated datasets, models, and analysis outputs
+data/
+models/
+outputs/
+
+# Large audio/media artifacts
+*.wav
+*.flac
+*.mp3
+*.m4a
+*.ogg
+*.aiff
+*.aif
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

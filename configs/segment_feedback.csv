@@ -1,0 +1,2 @@
+file,start,end,forbid_groups,forbid_labels,force_labels,note
+cabriolet_2.wav,4.0,6.0,drums|vocals,glitch_percussion|pitched_vocal_chop,,User reported no audible drums in this segment; treat drum/vocal detections as false-positive candidates.

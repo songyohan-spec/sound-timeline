@@ -1,0 +1,103 @@
+{
+  "synth": {
+    "synth_pad_wash": [
+      "a wide atmospheric synth pad",
+      "a washed out ambient synthesizer pad",
+      "a soft sustained electronic synth wash"
+    ],
+    "supersaw_stack": [
+      "a bright supersaw synth stack",
+      "a wide detuned saw wave synthesizer",
+      "a dense bright electronic saw pad"
+    ],
+    "digital_synth_lead": [
+      "a bright digital synth lead",
+      "a sharp melodic electronic synthesizer lead",
+      "a clear lead synth melody"
+    ],
+    "bitcrushed_synth_lead": [
+      "a bitcrushed synth lead",
+      "a crunchy low resolution electronic synthesizer",
+      "an aliased distorted digital synth lead"
+    ],
+    "synth_pluck_bell": [
+      "a short plucked synthesizer",
+      "a glassy digital synth bell",
+      "a bright bell-like electronic pluck"
+    ],
+    "arpeggio_sequence": [
+      "a repeating synth arpeggio",
+      "a sequenced electronic melody pattern",
+      "a rhythmic arpeggiated synthesizer"
+    ],
+    "granular_texture": [
+      "a granular synth texture",
+      "a chopped grainy electronic texture",
+      "a smeared resampled granular synthesizer sound"
+    ],
+    "wavetable_noise": [
+      "a noisy wavetable synthesizer",
+      "a harsh digital synth noise texture",
+      "a synthetic noisy evolving electronic texture"
+    ],
+    "fuzzy_lofi_synth": [
+      "a fuzzy lo-fi synthesizer",
+      "a gritty saturated electronic synth texture",
+      "a warm distorted DIY synth sound"
+    ],
+    "synth_flute_pipe": [
+      "a flute-like synthesizer lead",
+      "a recorder-like electronic synth melody",
+      "a breathy pipe-like synth lead"
+    ],
+    "vocal_synth_hybrid": [
+      "a vocal synth hybrid texture",
+      "a synthetic voice-like melodic layer",
+      "a sound between a vocal chop and a synth"
+    ],
+    "formant_vocoder": [
+      "a vocoder vocal synth texture",
+      "a formant shifted synthetic vocal sound",
+      "a robotic voice-like synthesizer"
+    ]
+  },
+  "synth_bass": {
+    "synth_bass": [
+      "a synth bass",
+      "an electronic bass synthesizer",
+      "a low synthesizer bass line"
+    ],
+    "sidechained_synth_bass": [
+      "a sidechained pulsing synth bass",
+      "a pumping bass synth ducked by the kick",
+      "a rhythmic electronic bass pulse"
+    ],
+    "sub_808_synth_bass": [
+      "a deep sub bass",
+      "an 808 bass synth",
+      "a low booming electronic bass"
+    ]
+  },
+  "not_synth": {
+    "not_synth_vocal": [
+      "a human vocal",
+      "a sung voice",
+      "a vocal phrase without a synthesizer"
+    ],
+    "not_synth_guitar": [
+      "an electric guitar loop",
+      "a plucked guitar pattern",
+      "a guitar sound without a synthesizer"
+    ],
+    "not_synth_drums": [
+      "a drum beat",
+      "percussion and drums",
+      "a rhythm drum loop without a synthesizer"
+    ],
+    "not_synth_sample_loop": [
+      "a sampled music loop",
+      "a chopped sample texture",
+      "a resampled non-synth musical phrase"
+    ]
+  }
+}

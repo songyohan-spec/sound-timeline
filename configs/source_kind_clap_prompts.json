@@ -1,0 +1,209 @@
+{
+  "vocals": {
+    "clean_or_lead_vocal": [
+      "a clean lead vocal in a pop song",
+      "a sung vocal melody",
+      "a clear vocal hook"
+    ],
+    "rap_or_spoken_vocal": [
+      "a rap vocal",
+      "spoken processed vocals",
+      "a rhythmic spoken voice in music"
+    ],
+    "hard_tuned_vocal": [
+      "a hard tuned autotune vocal",
+      "a robotic tuned vocal lead",
+      "a heavily pitch corrected vocal"
+    ],
+    "pitched_vocal_chop": [
+      "a pitched vocal chop",
+      "a chopped vocal sample melody",
+      "a stuttered vocal slice"
+    ],
+    "formant_or_vocoder_vocal": [
+      "a formant shifted vocal",
+      "a vocoder vocal texture",
+      "a synthetic voice effect"
+    ],
+    "vocal_pad_or_harmony": [
+      "stacked vocal harmonies",
+      "a breathy vocal pad",
+      "soft background vocal layers"
+    ],
+    "vocal_synth_hybrid": [
+      "a vocal synth hybrid texture",
+      "a voice-like synthesizer layer",
+      "a processed vocal that sounds like a synth"
+    ]
+  },
+  "synth": {
+    "synth_pad_or_wash": [
+      "a wide atmospheric synth pad",
+      "a washed out synth pad",
+      "a soft ambient synthesizer wash"
+    ],
+    "supersaw_or_bright_synth_stack": [
+      "a bright supersaw synth stack",
+      "a wide saw wave synthesizer pad",
+      "a dense bright synth stack"
+    ],
+    "synth_pluck_or_bell": [
+      "a glassy synth bell",
+      "a short plucked synthesizer",
+      "a bright digital bell synth"
+    ],
+    "arpeggio_or_sequence_synth": [
+      "a sequenced arpeggio synthesizer",
+      "a rhythmic synth arpeggio",
+      "a repeating electronic melody pattern"
+    ],
+    "digital_synth_lead": [
+      "a digital synth lead",
+      "a bright electronic lead synthesizer",
+      "a sharp melodic synth lead"
+    ],
+    "bitcrushed_or_aliasing_synth": [
+      "a bitcrushed synth lead",
+      "an aliased digital synthesizer",
+      "a crunchy low resolution synth"
+    ],
+    "fuzzy_distorted_synth": [
+      "a fuzzy distorted synthesizer",
+      "a saturated synth texture",
+      "a gritty distorted electronic synth"
+    ],
+    "wavetable_noise_synth": [
+      "a noisy wavetable synthesizer",
+      "a synthetic noise texture",
+      "a harsh digital synth texture"
+    ],
+    "granular_or_resampled_synth": [
+      "a granular synth texture",
+      "a resampled electronic texture",
+      "a chopped granular synthesizer sound"
+    ]
+  },
+  "bass": {
+    "synth_bass": [
+      "a synth bass",
+      "an electronic bass synth",
+      "a low synthesizer bass line"
+    ],
+    "sub_or_808_bass": [
+      "a deep sub bass",
+      "an 808 bass",
+      "a low booming bass"
+    ],
+    "distorted_bass": [
+      "a distorted bass",
+      "a saturated 808 bass",
+      "a gritty bass sound"
+    ],
+    "sidechained_bass_pulse": [
+      "a sidechained pulsing bass",
+      "a bass ducking with the kick",
+      "a pumping bass line"
+    ]
+  },
+  "drums": {
+    "electronic_drum_machine": [
+      "an electronic drum machine beat",
+      "programmed electronic drums",
+      "synthetic drum machine rhythm"
+    ],
+    "breakbeat_or_live_drums": [
+      "a breakbeat drum loop",
+      "live drum kit groove",
+      "a sampled drum break"
+    ],
+    "kick_or_low_hit": [
+      "a kick drum",
+      "a low drum hit",
+      "a thumping bass drum"
+    ],
+    "snare_clap_or_snap": [
+      "a snare or clap hit",
+      "an electronic clap snare",
+      "a sharp backbeat snare"
+    ],
+    "hat_tick_or_click": [
+      "hi hat ticks",
+      "a clicking hi hat pattern",
+      "bright ticking percussion"
+    ],
+    "glitch_percussion": [
+      "glitch percussion",
+      "clicky digital percussion",
+      "fragmented electronic drum glitches"
+    ]
+  },
+  "guitar_strings_keys": {
+    "guitar_or_plucked_loop": [
+      "a guitar loop",
+      "a plucked guitar pattern",
+      "a muted filtered guitar loop"
+    ],
+    "distorted_guitar_or_rock_texture": [
+      "a distorted electric guitar texture",
+      "a fuzzy rock guitar layer",
+      "a saturated guitar wall"
+    ],
+    "washed_guitar_or_strings": [
+      "a washed out chorus guitar",
+      "a reverb smeared guitar layer",
+      "a wide dreamy guitar wash"
+    ],
+    "string_or_violin_like": [
+      "a violin like lead",
+      "a string pad",
+      "orchestral strings in pop music"
+    ],
+    "piano_or_keyboard_loop": [
+      "a piano or keyboard loop",
+      "soft electric piano chords",
+      "a repeating keyboard pattern"
+    ],
+    "warm_keys_or_organ": [
+      "warm keyboard chords",
+      "an organ like keyboard sound",
+      "a mellow keys layer"
+    ]
+  },
+  "sample_fx": {
+    "sampled_loop_texture": [
+      "a sampled loop texture",
+      "a resampled pop music loop",
+      "a looped sample bed"
+    ],
+    "chopped_or_stuttered_sample": [
+      "a chopped stuttered sample",
+      "a gated sample loop",
+      "a rhythmic chopped audio sample"
+    ],
+    "filtered_or_muffled_loop": [
+      "a filtered muffled loop",
+      "a low pass filtered sample",
+      "a dark muted loop texture"
+    ],
+    "ambient_bed_or_foley": [
+      "an ambient background texture",
+      "foley texture in music",
+      "a soft environmental sound bed"
+    ],
+    "noise_or_fx_transition": [
+      "a noise effect transition",
+      "a digital glitch effect",
+      "a noisy sound design effect"
+    ],
+    "riser_or_swell": [
+      "a rising swell effect",
+      "a reverse swell transition",
+      "a whoosh riser"
+    ],
+    "impact_or_tail": [
+      "an impact hit with a tail",
+      "a reverb impact sound",
+      "a transition hit effect"
+    ]
+  }
+}

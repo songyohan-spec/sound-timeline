@@ -1,0 +1,26 @@
+name: sound-timeline
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - ffmpeg
+  - libsndfile
+  - pip
+  - pip:
+      - librosa
+      - soundfile
+      - pedalboard
+      - scikit-learn
+      - tqdm
+      - pyyaml
+      - joblib
+      - torch
+      - torchaudio
+      - demucs
+      - transformers
+      - accelerate
+      - huggingface_hub
