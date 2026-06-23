@@ -78,6 +78,10 @@ Done when:
 - The strict audition page mostly contains clips worth listening to.
 - Bad candidates are not silently mixed into the main result.
 
+Current immediate output:
+
+- `outputs/demucs_stems_6s_full/synth_candidate_audio_auditionable.html`
+
 ### P3: Improve Model Evidence
 
 Only after P0-P2:
