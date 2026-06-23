@@ -221,6 +221,7 @@ Main generated reports:
 - `outputs/demucs_stems_6s_full/synth_candidate_audio_strict_index.html`
 - `outputs/demucs_stems_6s_full/synth_candidate_audio_strict_triage.html`
 - `outputs/demucs_stems_6s_full/synth_candidate_audio_auditionable.html`
+- `outputs/demucs_stems_6s_full/synth_candidate_audio_failure_audit.html`
 
 The synth candidate audio exports are pseudo-separation outputs. They are made
 by combining Demucs stems over model-selected time regions. They are useful for

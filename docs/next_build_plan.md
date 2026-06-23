@@ -81,6 +81,7 @@ Done when:
 Current immediate output:
 
 - `outputs/demucs_stems_6s_full/synth_candidate_audio_auditionable.html`
+- `outputs/demucs_stems_6s_full/synth_candidate_audio_failure_audit.html`
 
 ### P3: Improve Model Evidence
 

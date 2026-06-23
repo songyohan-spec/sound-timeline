@@ -61,6 +61,8 @@ def main() -> None:
     synth_candidate_audio_strict_triage_html = out / "synth_candidate_audio_strict_triage.html"
     synth_candidate_audio_auditionable_csv = out / "synth_candidate_audio_auditionable.csv"
     synth_candidate_audio_auditionable_html = out / "synth_candidate_audio_auditionable.html"
+    synth_candidate_audio_failure_csv = out / "synth_candidate_audio_failure_audit.csv"
+    synth_candidate_audio_failure_html = out / "synth_candidate_audio_failure_audit.html"
     teacher_queue = out / "synth_teacher_queue_v4_strict.csv"
     teacher_queue_html = out / "synth_teacher_queue_v4_strict.html"
 
@@ -349,6 +351,18 @@ def main() -> None:
     run(
         [
             py,
+            "scripts/audit_synth_candidate_failures.py",
+            "--triage",
+            str(synth_candidate_audio_strict_triage_csv),
+            "--out-csv",
+            str(synth_candidate_audio_failure_csv),
+            "--out-html",
+            str(synth_candidate_audio_failure_html),
+        ]
+    )
+    run(
+        [
+            py,
             "scripts/select_synth_teacher_queue.py",
             "--synth",
             str(synth_csv),
@@ -387,6 +401,7 @@ def main() -> None:
     print(f"Strict synth candidate audio exports: {synth_candidate_audio_strict_html}")
     print(f"Strict synth separation triage: {synth_candidate_audio_strict_triage_html}")
     print(f"Auditionable strict synth candidates: {synth_candidate_audio_auditionable_html}")
+    print(f"Strict synth candidate failure audit: {synth_candidate_audio_failure_html}")
     print(f"Broad likely/strong layer regions: {broad_regions_likely_html}")
     print(f"Broad strong-only layer regions: {broad_regions_strong_html}")
     print(f"Broad track overview: {broad_track_overview_html}")
